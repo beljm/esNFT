@@ -7,6 +7,7 @@ const TopSideBarContainer = styled.header`
   border-bottom: 1px solid;
   align-items: center;
   padding: 5px;
+  height: 8vh;
 `
 
 const LogoContainer = styled.div`
